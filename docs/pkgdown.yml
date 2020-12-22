@@ -1,0 +1,8 @@
+pandoc: 2.11.2
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  jackpot_size: jackpot_size.html
+  lotto_demographics: lotto_demographics.html
+last_built: 2020-12-22T09:59Z
+
